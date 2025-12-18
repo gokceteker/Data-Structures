@@ -50,6 +50,6 @@ Time complexity results are based on theoretical Big O analysis.
 To compile and run the program:
 
 ```bash
-gcc week2_algorithms.c -o week2
+gcc week2_complexity_analysis.c -o week2
 ./week2
 ```

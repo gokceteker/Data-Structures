@@ -9,3 +9,4 @@ This repository contains weekly assignments for the Data Structures course.
 - **Week 03:** Singly Linked List Operations  
 - **Week 04:** Advanced Linked List Operations (Doubly & Circular)
 - **Week 05:** Shunting Yard Algorithm (Infix to Postfix)
+- **Week 11:** Graph Clustering and Separation

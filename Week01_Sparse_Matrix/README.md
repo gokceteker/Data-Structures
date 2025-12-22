@@ -1,7 +1,7 @@
 # Week 01 – Sparse Matrix Transformation
 
 ## Course
-CS1102 – Data Structures and Algorithms
+Data Structures
 
 ## Assignment Description
 In this assignment, a sparse matrix is transformed into a compact 3-tuple representation using the C programming language. A sparse matrix is defined as a matrix in which the majority of elements are zero. Instead of storing all elements, only the non-zero elements and their positions are stored in order to optimize memory usage.

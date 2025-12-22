@@ -5,8 +5,6 @@
 - Name: Gökçe Teker
 - Student ID: 2210206057
 
-
-
 This repository contains weekly assignments for the Data Structures course.
 
 ## Weeks

@@ -30,7 +30,7 @@ This process continues recursively until only one disk remains.
 To compile and run the program:
 
 ```bash
-gcc hanoi.c -o hanoi
+gcc week2_hanoi.c -o hanoi
 ./hanoi
 ```
 

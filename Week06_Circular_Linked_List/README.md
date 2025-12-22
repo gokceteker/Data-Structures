@@ -1,7 +1,7 @@
 # Week 06 – Circular Linked List Operations
 
 ## Course
-CS1102 – Data Structures and Algorithms
+Data Structures 
 
 ## Assignment Description
 This assignment demonstrates the implementation of a Circular Linked List in C. The program supports insertion at a specific position, deletion from a specific position, and traversal.

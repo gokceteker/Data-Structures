@@ -37,7 +37,7 @@ The program performs the following steps:
 To compile and run the program:
 
 ```bash
-gcc sparse_matrix.c -o sparse
+gcc week1_sparse_matrix.c -o sparse
 ./sparse
 ```
 

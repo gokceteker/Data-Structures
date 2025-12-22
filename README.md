@@ -1,5 +1,4 @@
 # Data Structures
-## GitHub Assignment Repository (2025–2026 Fall)
 
 ## Student Information
 - Name: Gökçe Teker
